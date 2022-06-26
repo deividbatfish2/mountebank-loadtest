@@ -8,3 +8,4 @@
     * Criar Deployment
     * Criar Service
     * Criar Volume
+    * Adicionar liveness probe usando o /config
